@@ -31,6 +31,9 @@ contract UniswapV2ExchangeAdapter {
     /*
     * Write a state variable to store the address of the Uniswap Exchange V2 Router Contract
     */
+
+
+        // Write the getTradeCalldata and getSpender methods for the adapter
    
    
                     // YOUR CODE HERE
